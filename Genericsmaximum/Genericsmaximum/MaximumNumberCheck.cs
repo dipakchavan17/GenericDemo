@@ -8,6 +8,7 @@ namespace Genericsmaximum
 {
     internal class MaximumNumberCheck
     {
+
         public static int MaximumIntegerNumber(int firstValue, int secondValue, int thirdValue)
         {
 
