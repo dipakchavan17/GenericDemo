@@ -38,8 +38,9 @@ namespace Genericsmaximum
              Console.WriteLine(maximum3);
             */
             Console.WriteLine("Finding max Number :");
-            Generic<int> first = new Generic<int>();
-            first.FindMax(1, 2, 3);
+            //Generic<int> first = new Generic<int>();
+            //first.FindMax(1, 2, 3);
+            Generic<int> first = new Generic<int>(1, 2, 3);
 
 
 
